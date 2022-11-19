@@ -35,7 +35,7 @@ h2{
 	justify-content:space-around;
 	align-items:center;
 	box-sizing:border-box;
-	height:100vh;
+	height:calc(100vh - 30px);
 }
 
 .front-codebox{
@@ -114,6 +114,7 @@ nav .material-symbols-sharp:hover{
 	color:white;
 	border-radius:10px;
 	overflow-y:scroll;
+	height:390px;
 }
 
 #textbubble .material-symbols-sharp{

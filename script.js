@@ -63,6 +63,36 @@ let projects = [
 		description:"A Chat application that supports many awesome features",
 		link:"https://dolphinchat-client.liftoff-ka.repl.co",
 		name:"DolphinChat"
+	},
+	{
+		pic:"https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lyo5frg1txxm9j7104d7.png",
+		description:"My old portfolio with many jokes :D",
+		link:"https://liftoff-studios.github.io",
+		name:"Old Portfolio"
+	},
+	{
+		pic:"https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r8738kp4vv92ybw53nj6.png",
+		description:"A Rust-Lang appreciation website",
+		link:"https://www.khanacademy.org/computer-programming/rust-lang/5388308906557440",
+		name:"Rust"
+	},
+	{
+		pic:"https://dev-to-uploads.s3.amazonaws.com/uploads/articles/itkhj0capgvanbo5x1cp.png",
+		description:"A website that gives an overview about AI",
+		link:"https://liftoff-studios.github.io/artificial-intelligence/",
+		name:"What is AI"
+	},
+	{
+		pic:"https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h959j6qu6u9izv6ouj47.jpg",
+		description:"A website about cycling",
+		link:"https://liftoff-studios.github.io/Contest-Outdoor-s-Entry/",
+		name:"Cycling Website"
+	},
+	{
+		pic:"https://dev-to-uploads.s3.amazonaws.com/uploads/articles/26rbtmjkhvti2sse8y4p.png",
+		description:"My entry to a hackathon ",
+		link:"https://liftoff-studios.github.io/DiPS-Techsprint-Web-Dev-Challenge/",
+		name:"Techsprint Challenge Submission"
 	}
 ];
 for(let i=0;i<projects.length;i++){
